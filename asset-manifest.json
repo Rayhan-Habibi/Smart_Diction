@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Smart_Diction/static/css/main.70553aa7.css",
-    "main.js": "/Smart_Diction/static/js/main.f14fb07f.js",
+    "main.css": "/Smart_Diction/static/css/main.709f38fd.css",
+    "main.js": "/Smart_Diction/static/js/main.5d9d4bc3.js",
     "static/js/787.b2667319.chunk.js": "/Smart_Diction/static/js/787.b2667319.chunk.js",
     "static/media/Sora-Medium.ttf": "/Smart_Diction/static/media/Sora-Medium.c7d89ac9453bb39b7613.ttf",
     "static/media/Sora-Regular.ttf": "/Smart_Diction/static/media/Sora-Regular.59e8cd26fdf2c27c0ec7.ttf",
     "index.html": "/Smart_Diction/index.html",
-    "main.70553aa7.css.map": "/Smart_Diction/static/css/main.70553aa7.css.map",
-    "main.f14fb07f.js.map": "/Smart_Diction/static/js/main.f14fb07f.js.map",
+    "main.709f38fd.css.map": "/Smart_Diction/static/css/main.709f38fd.css.map",
+    "main.5d9d4bc3.js.map": "/Smart_Diction/static/js/main.5d9d4bc3.js.map",
     "787.b2667319.chunk.js.map": "/Smart_Diction/static/js/787.b2667319.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70553aa7.css",
-    "static/js/main.f14fb07f.js"
+    "static/css/main.709f38fd.css",
+    "static/js/main.5d9d4bc3.js"
   ]
 }
